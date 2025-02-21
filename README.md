@@ -47,6 +47,11 @@ Plataforma para monitoramento e otimização da geração de energia solar ☀�
 📌 Tecnologias: *Python, Flask, OpenWeather API, Banco de Dados*  
 🔗 [Repositório](https://github.com/JoaoMichaeli/Eco.Volt)
 
+### 🎮 **Jogo21** | *Jogo de Apostas*  
+Jogo simples de apostas baseado no 21, onde o jogador tenta chegar o mais próximo de 21 pontos sem ultrapassar.  
+
+📌 Tecnologias: *Java*  
+🔗 [Repositório](https://github.com/JoaoMichaeli/Jogo21)
 ---
 
 ## 📫 Entre em Contato  
