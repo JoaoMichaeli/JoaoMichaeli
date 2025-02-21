@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor FullStack | Apaixonado por Tecnologia**  
 📍 São Paulo, Brasil  
-📧 [E-mail]: joaovictor_de_bem_@hotmail.com | [LinkedIn]: https://www.linkedin.com/in/joaomichaeli
+📧 [E-mail](joaovictor_de_bem_@hotmail.com)  | [LinkedIn](https://www.linkedin.com/in/joaomichaeli/) 
 
 ---
 
