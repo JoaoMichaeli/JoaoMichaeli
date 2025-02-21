@@ -11,7 +11,7 @@
 Sou um **desenvolvedor de software** em formação, apaixonado por tecnologia e inovação. Tenho experiência prática em **desenvolvimento FullStack, APIs, banco de dados e criação de sistemas**. Gosto de trabalhar em equipe, resolver problemas e aprender continuamente novas tecnologias.  
 
 ### 🎓 Educação  
-- **Tecnologo em Análise e Desenvolvimento de Sistemas** – FIAP (Conclusão em 2025)  
+- **Tecnologia em Análise e Desenvolvimento de Sistemas** – FIAP (Conclusão em 2025)  
 
 ### 💼 Objetivo Profissional  
 - Buscando minha primeira oportunidade como **desenvolvedor FullStack** para aplicar e aprimorar meus conhecimentos.  
