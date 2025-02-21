@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor FullStack | Apaixonado por Tecnologia**  
 📍 São Paulo, Brasil  
-📧 [E-mail](joaovictor_de_bem_@hotmail.com)  | [LinkedIn](https://www.linkedin.com/in/joaomichaeli/) 
+📧 [E-mail](mailto:joaovictor_de_bem_@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/joaomichaeli/)  
 
 ---
 
@@ -21,7 +21,7 @@ Sou um **desenvolvedor de software** em formação, apaixonado por tecnologia e 
 ## 🚀 Habilidades Técnicas  
 
 ### 🔹 Linguagens  
-- **Python, Java, TypeScript, SQL** 
+- **Python, Java, TypeScript, SQL**  
 - **JavaScript, HTML/CSS**
 
 ### 🔹 Frameworks & Ferramentas  
@@ -37,26 +37,24 @@ Sou um **desenvolvedor de software** em formação, apaixonado por tecnologia e 
 
 ### 🔧 **ChatMech** | *Mecânica Virtual Inteligente*  
 Um chatbot inteligente para manutenção de veículos 🚗, auxiliando usuários com diagnóstico, orçamentos e localização de oficinas.  
-
 📌 Tecnologias: *Python, Flask, Banco de Dados, API REST*  
 🔗 [Repositório](https://github.com/JoaoMichaeli/ChatMech)  
 
 ### 🔆 **Gerenciamento de Placas Solares**  
 Plataforma para monitoramento e otimização da geração de energia solar ☀️, integrada com API de clima.  
-
 📌 Tecnologias: *Python, Flask, OpenWeather API, Banco de Dados*  
 🔗 [Repositório](https://github.com/JoaoMichaeli/Eco.Volt)
 
-### 🎮 **Jogo21 | Jogo de Apostas**
+### 🎮 **Jogo21** | *Jogo de Apostas*  
 Jogo simples de apostas baseado no 21, onde o jogador tenta chegar o mais próximo de 21 pontos sem ultrapassar.  
-
 📌 Tecnologias: *Java*  
 🔗 [Repositório](https://github.com/JoaoMichaeli/Jogo21)
+
 ---
 
 ## 📫 Entre em Contato  
 💼 [LinkedIn](https://www.linkedin.com/in/joaomichaeli/)  
-📧 [E-mail](joaovictor_de_bem_@hotmail.com)  
+📧 [E-mail](mailto:joaovictor_de_bem_@hotmail.com)  
 
 ---
 
