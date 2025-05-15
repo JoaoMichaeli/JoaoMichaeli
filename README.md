@@ -55,6 +55,11 @@ Solução completa para rastreamento e visualização em tempo real de motos em 
 📌 Tecnologias: *Visão Computacional, IoT, React, Node.js, Python, Docker*  
 🔗 [Repositório](https://github.com/JoaoMichaeli/VisionHive)
 
+### 🏋️‍♂️ **GymA** | *Gerenciamento de Treinos e Exercícios*
+Aplicação para cadastro, organização e visualização de planos de treino e exercícios personalizados.
+📌 Tecnologias: *Java, Spring Boot, JPA, API REST, Next.js*
+🔗 [Repositório](https://github.com/JoaoMichaeli/Gyma)
+
 ---
 
 ## 📫 Entre em Contato  
