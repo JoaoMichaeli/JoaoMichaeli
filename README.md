@@ -60,6 +60,11 @@ Aplicação para cadastro, organização e visualização de planos de treino e 
 📌 Tecnologias: *Java, Spring Boot, JPA, API REST, Next.js*  
 🔗 [Repositório](https://github.com/JoaoMichaeli/Gyma)
 
+### 🛒 **Mercado Medieval** | *E-commerce Temático*  
+Loja virtual inspirada em produtos medievais, com funcionalidades de cadastro de produtos, listagem e edição com imagens.  
+📌 Tecnologias: *Next.js, React, API REST, Java, Banco de Dados*  
+🔗 [Repositório](https://github.com/JoaoMichaeli/Mercado-Medieval)
+
 ---
 
 ## 📫 Entre em Contato  
