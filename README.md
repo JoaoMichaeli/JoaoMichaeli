@@ -51,8 +51,8 @@ Jogo simples de apostas baseado no 21, onde o jogador tenta chegar o mais próxi
 🔗 [Repositório](https://github.com/JoaoMichaeli/Jogo21)
 
 ### 🛵 **Mapeamento Inteligente de Motos** | *Desafio Mottu*  
-Solução completa para rastreamento e visualização em tempo real de motos em pátios de mais de 100 filiais, utilizando visão computacional, sensores IoT e uma interface web responsiva.  
-📌 Tecnologias: *Visão Computacional, IoT, React, Node.js, Python, Docker*  
+Solução completa para rastreamento e visualização em tempo real de motos em pátios de mais de 100 filiais, utilizando dispositivos ESP32 com IoT, sensores físicos e uma interface web responsiva.  
+📌 Tecnologias: *ESP32, IoT, Deep Sleep, React, Node.js, Python, Docker*  
 🔗 [Repositório](https://github.com/JoaoMichaeli/VisionHive)
 
 ### 🏋️‍♂️ **GymA** | *Gerenciamento de Treinos e Exercícios*  
