@@ -58,7 +58,9 @@ Solução completa para rastreamento e visualização em tempo real de motos em 
 ### 🏋️‍♂️ **GymA** | *Gerenciamento de Treinos e Exercícios*  
 Aplicação para cadastro, organização e visualização de planos de treino e exercícios personalizados.  
 📌 Tecnologias: *Java, Spring Boot, JPA, API REST, Next.js*  
-🔗 [Repositório](https://github.com/JoaoMichaeli/Gyma)
+🔗 [Repositório API](https://github.com/JoaoMichaeli/Gyma-API)
+🔗 [Repositório WEB](https://github.com/JoaoMichaeli/Gyma-WEBI)
+
 
 ### 🛒 **Mercado Medieval** | *E-commerce Temático*  
 Loja virtual inspirada em produtos medievais, com funcionalidades de cadastro de produtos, listagem e edição com imagens.  
