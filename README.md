@@ -43,6 +43,62 @@ pie title Linguagens e Tecnologias
 
 ---
 
+## 🏆 Projetos em Destaque  
+
+> ### 🏋️‍♂️ **GymA** — *Gerenciamento de Treinos e Exercícios*  
+> **Descrição:** Aplicação completa para cadastro, organização e visualização de planos de treino e exercícios personalizados.  
+> **Stack:** `Java` · `Spring Boot` · `JPA` · `API REST` · `Next.js`  
+> **Links:** [API](https://github.com/JoaoMichaeli/Gyma-API) · [WEB](https://github.com/JoaoMichaeli/Gyma-WEBI)  
+
+---
+
+> ### 🎮 **Jogo21** — *Jogo de Apostas*  
+> **Descrição:** Jogo simples baseado no 21, desenvolvido para praticar lógica de programação em Java.  
+> **Stack:** `Java`  
+> **Links:** [Repositório](https://github.com/JoaoMichaeli/Jogo21)  
+
+---
+
+> ### 🛒 **Mercado Medieval** — *E-commerce Temático*  
+> **Descrição:** Loja virtual com cadastro, listagem e edição de produtos, incluindo upload e exibição de imagens.  
+> **Stack:** `Java` · `API REST` · `Next.js` · `Banco de Dados`  
+> **Links:** [Repositório](https://github.com/JoaoMichaeli/Mercado-Medieval)  
+
+---
+
+> ### 🔧 **ChatMech** — *Mecânica Virtual Inteligente*  
+> **Descrição:** Chatbot inteligente para manutenção de veículos, auxiliando com diagnóstico, orçamentos e localização de oficinas.  
+> **Stack:** `Java` · `API REST` · `Python` · `Banco de Dados`  
+> **Links:** [Repositório](https://github.com/JoaoMichaeli/ChatMech)
+
+---
+
+> ### 👽 **UFO Record** — *Cadastro e Registro de Atividades de OVNIs*  
+> **Descrição:** Sistema para registrar, listar atividades de OVNIs, por localidade, data e tipo de ocorrência.  
+> **Stack:** `Java` · `Spring Boot` · `Spring Data JPA` · `Thymeleaf` · `PostgreSQL` · `Flyway`  
+> **Links:** [Repositório](https://github.com/JoaoMichaeli/UFO-record)
+
+---
+
+> ### 🦸‍♂️ **Super Powers** — *Catálogo de Superpoderes Inúteis*  
+> **Descrição:** Sistema web simples e divertido que lista superpoderes inúteis.  
+> **Stack:** `Java` · `Spring Boot` · `Spring Data JPA` · `Thymeleaf` · `PostgreSQL` · `Flyway`  
+> **Links:** [Repositório](https://github.com/JoaoMichaeli/Super-Powers)
+
+---
+
+> ### 🌍 **EcoDenúncia** — *Plataforma de Denúncias Ambientais*  
+> **Descrição:** Sistema web para cadastro e acompanhamento de denúncias de descarte irregular de lixo e entulho, promovendo conscientização ambiental e comunicação entre cidadãos e órgãos públicos.  
+> **Stack:** `Java` · `Spring Boot` · `Spring Security` · `JPA/Hibernate` · `Oracle Database` · `Swagger/OpenAPI`  
+> **Links:** [Repositório](https://github.com/JoaoMichaeli/EcoDenuncia-Java)
+
+---
+
+> ### 🔮 **Vision Hive** — *Gerenciamento de Motocicletas em Pátios*  
+> **Descrição:** API RESTful desenvolvida para a Mottu, permitindo cadastro e localização de **Filiais**, **Pátios** e **Motocicletas**, com busca por placa, chassi ou número do motor.  
+> **Stack:** `Java 17+` · `Spring Boot` · `Spring Data JPA` · `Validation` · `Lombok` · `H2 Database` · `Swagger/OpenAPI`  
+> **Links:** [Repositório](https://github.com/JoaoMichaeli/VisionHive-Java)
+
 ## 🎓 Formação Acadêmica  
 - **Tecnologia em Análise e Desenvolvimento de Sistemas** – FIAP *(Conclusão em 2025)*  
 
