@@ -57,7 +57,7 @@ Possuo sólida base em **Java, Spring Boot, JPA e SQL**, além de conhecimentos 
 
 > ### 🔮 **Vision Hive** — *Gerenciamento de Motocicletas em Pátios*  
 > **Descrição:** API RESTful desenvolvida para a Mottu, permitindo cadastro e localização de **Filiais**, **Pátios** e **Motocicletas**, com busca por placa, chassi ou número do motor.  
-> **Stack:** `Java 17+` · `Spring Boot` · `Spring Data JPA` · `Validation` · `Lombok` · `H2 Database` · `Swagger/OpenAPI`  
+> **Stack:** `Java 17+` · `Spring Boot` · `Spring Data JPA` · `Validation` · `Lombok` · `Postgre` · `Swagger/OpenAPI`  
 > **Links:** [Repositório](https://github.com/JoaoMichaeli/VisionHive-Java)
 
 ---
