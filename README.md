@@ -18,17 +18,6 @@ Possuo sólida base em **Java, Spring Boot, JPA e SQL**, além de conhecimentos 
 
 ---
 
-## 📊 Habilidades Técnicas  
-
-```mermaid
-pie title Linguagens e Tecnologias
-    "Java" : 50
-    "SQL" : 20
-    "JavaScript/TypeScript" : 15
-    "Python" : 10
-    "Outros" : 5
-```
-
 ### 💻 **Linguagens & Frameworks**
 - **Java (Spring Boot, JPA, APIs REST)**
 - SQL (Oracle, PostgreSQL)  
