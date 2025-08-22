@@ -64,7 +64,7 @@ Possuo sólida base em **Java, Spring Boot, JPA e SQL**, além de conhecimentos 
 
 > ### 🪐 **Galactic Adventures** — *Gerenciamento de Personagens Sci-Fi*  
 > **Descrição:** API RESTful para cadastro e gerenciamento de **Personagens**, incluindo validações de nome, espécie, nível inicial, biografia e data de criação.  
-> **Stack:** `Java 17+` · `Spring Boot` · `Spring Data JPA` · `Validation` · `Lombok` · `PostgreSQL` 
+> **Stack:** `Java 17+` · `Spring Boot` · `Spring Data JPA` · `Validation` · `Lombok` · `PostgreSQL`  
 > **Links:** [Repositório](https://github.com/JoaoMichaeli/GalacticAdventures)
 
 ---
