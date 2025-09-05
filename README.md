@@ -110,7 +110,3 @@ Ingressar como **Desenvolvedor Java Backend** e aplicar meus conhecimentos em pr
 ## 📫 Entre em Contato  
 💼 [LinkedIn](https://www.linkedin.com/in/joaomichaeli/)  
 📧 [E-mail](mailto:joaovictor_de_bem_@hotmail.com)  
-
----
-
-> 🚀 *"Com Java, construindo soluções que movem o mundo!"*
